@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Theia.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Nyx Maryam s5433402\Theia\Intermediate\Build\Win64\x64\TheiaEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\Nyx Maryam s5433402\Theia\Intermediate\Build\Win64\x64\UnrealEditor\Development\Theia\MyClass.gen.cpp.obj"
+"E:\Nyx Maryam s5433402\Theia\Intermediate\Build\Win64\x64\UnrealEditor\Development\Theia\Theia.init.gen.cpp.obj"
+"E:\Nyx Maryam s5433402\Theia\Intermediate\Build\Win64\x64\UnrealEditor\Development\Theia\MyClass.cpp.obj"
+"E:\Nyx Maryam s5433402\Theia\Intermediate\Build\Win64\x64\UnrealEditor\Development\Theia\Theia.cpp.obj"
+"E:\Nyx Maryam s5433402\Theia\Intermediate\Build\Win64\x64\UnrealEditor\Development\Theia\Default.rc2.res"
+/OUT:"E:\Nyx Maryam s5433402\Theia\Intermediate\Build\Win64\x64\UnrealEditor\Development\Theia\UnrealEditor-Theia.lib"

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\nyx maryam s5433402\\theia\\source\\theia\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\nyx maryam s5433402\\theia\\intermediate\\build\\win64\\x64\\theiaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\nyx maryam s5433402\\theia\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\theia\\definitions.theia.h",
+            "e:\\nyx maryam s5433402\\theia\\source\\theia\\myclass.h",
+            "e:\\nyx maryam s5433402\\theia\\intermediate\\build\\win64\\unrealeditor\\inc\\theia\\uht\\myclass.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

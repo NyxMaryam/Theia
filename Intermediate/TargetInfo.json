@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Theia",
+			"Path": "..\\Source\\Theia.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheiaEditor",
+			"Path": "..\\Source\\TheiaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
