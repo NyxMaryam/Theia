@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Intermediate\\Source\\Theia.Build.cs",
+		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Intermediate\\Source\\Theia.Target.cs",
+		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Intermediate\\Source\\TheiaClient.Target.cs",
+		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Intermediate\\Source\\TheiaEditor.Target.cs",
+		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Intermediate\\Source\\TheiaServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
