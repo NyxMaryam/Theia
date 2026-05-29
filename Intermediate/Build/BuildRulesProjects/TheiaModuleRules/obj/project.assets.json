@@ -8540,19 +8540,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\s5433402\\.nuget\\packages\\": {}
+    "C:\\Users\\Michael\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Nyx Maryam s5433402\\Theia\\Intermediate\\Build\\BuildRulesProjects\\TheiaModuleRules\\TheiaModuleRules.csproj",
+      "projectUniqueName": "F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Intermediate\\Build\\BuildRulesProjects\\TheiaModuleRules\\TheiaModuleRules.csproj",
       "projectName": "TheiaModuleRules",
-      "projectPath": "E:\\Nyx Maryam s5433402\\Theia\\Intermediate\\Build\\BuildRulesProjects\\TheiaModuleRules\\TheiaModuleRules.csproj",
-      "packagesPath": "C:\\Users\\s5433402\\.nuget\\packages\\",
-      "outputPath": "E:\\Nyx Maryam s5433402\\Theia\\Intermediate\\Build\\BuildRulesProjects\\TheiaModuleRules\\obj\\",
+      "projectPath": "F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Intermediate\\Build\\BuildRulesProjects\\TheiaModuleRules\\TheiaModuleRules.csproj",
+      "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
+      "outputPath": "F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Intermediate\\Build\\BuildRulesProjects\\TheiaModuleRules\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\s5433402\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Michael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8612,7 +8617,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheiaModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1e6b4c73d8f0117294d468842ff67da30fe0879")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25f69ff63a8e6dae9a48af33544b12d0ae7cba37")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheiaModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheiaModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

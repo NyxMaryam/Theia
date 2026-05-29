@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\uni\\games programming 2\\github repo theia\\theia\\intermediate\\build\\win64\\unrealgame\\inc\\theia\\uht\\theia.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\uni\\games programming 2\\github repo theia\\theia\\intermediate\\build\\win64\\x64\\theia\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "f:\\uni\\games programming 2\\github repo theia\\theia\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\theia\\definitions.theia.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
