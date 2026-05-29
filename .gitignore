@@ -2,3 +2,4 @@
 .vs/Theia/v17/Solution.VC.db
 .vs/Theia/v17/ipch/fd4d3eca03fb86b7.ipch
 Intermediate/Build/Win64/x64/TheiaEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch
+Intermediate/Build/Win64/x64/Theia/Shipping/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.InclOrderOldest.h.pch
