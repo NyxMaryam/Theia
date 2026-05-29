@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Nyx Maryam s5433402\\Theia\\",
+  "WorkspaceRootPath": "F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A701D66A-2FE2-3BDE-82EF-90E4F90DB2F0}|Intermediate\\ProjectFiles\\Theia.vcxproj|E:\\Nyx Maryam s5433402\\Theia\\Source\\Theia\\MyClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A701D66A-2FE2-3BDE-82EF-90E4F90DB2F0}|Intermediate\\ProjectFiles\\Theia.vcxproj|F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Source\\Theia\\MyClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A701D66A-2FE2-3BDE-82EF-90E4F90DB2F0}|Intermediate\\ProjectFiles\\Theia.vcxproj|solutionrelative:Source\\Theia\\MyClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A701D66A-2FE2-3BDE-82EF-90E4F90DB2F0}|Intermediate\\ProjectFiles\\Theia.vcxproj|E:\\Nyx Maryam s5433402\\Theia\\Source\\Theia\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A701D66A-2FE2-3BDE-82EF-90E4F90DB2F0}|Intermediate\\ProjectFiles\\Theia.vcxproj|F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Source\\Theia\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A701D66A-2FE2-3BDE-82EF-90E4F90DB2F0}|Intermediate\\ProjectFiles\\Theia.vcxproj|solutionrelative:Source\\Theia\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MyClass.cpp",
-              "DocumentMoniker": "E:\\Nyx Maryam s5433402\\Theia\\Source\\Theia\\MyClass.cpp",
+              "DocumentMoniker": "F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Source\\Theia\\MyClass.cpp",
               "RelativeDocumentMoniker": "Source\\Theia\\MyClass.cpp",
-              "ToolTip": "E:\\Nyx Maryam s5433402\\Theia\\Source\\Theia\\MyClass.cpp",
+              "ToolTip": "F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Source\\Theia\\MyClass.cpp",
               "RelativeToolTip": "Source\\Theia\\MyClass.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MyClass.h",
-              "DocumentMoniker": "E:\\Nyx Maryam s5433402\\Theia\\Source\\Theia\\MyClass.h",
+              "DocumentMoniker": "F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Source\\Theia\\MyClass.h",
               "RelativeDocumentMoniker": "Source\\Theia\\MyClass.h",
-              "ToolTip": "E:\\Nyx Maryam s5433402\\Theia\\Source\\Theia\\MyClass.h",
+              "ToolTip": "F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Source\\Theia\\MyClass.h",
               "RelativeToolTip": "Source\\Theia\\MyClass.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

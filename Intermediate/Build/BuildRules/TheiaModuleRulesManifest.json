@@ -1,8 +1,6 @@
 {
 	"SourceFiles": [
 		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Source\\Theia\\Theia.Build.cs",
-		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
-		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
 		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Source\\Theia.Target.cs",
 		"F:\\UNI\\Games programming 2\\Github repo Theia\\Theia\\Source\\TheiaEditor.Target.cs"
 	],

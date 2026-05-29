@@ -26,13 +26,6 @@
     {
       "Name": "Metasound",
       "Enabled": false
-    },
-    {
-      "Name": "VisualStudioTools",
-      "Enabled": true,
-      "SupportedTargetPlatforms": [
-        "Win64"
-      ]
     }
   ],
   "TargetPlatforms": [
